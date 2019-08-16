@@ -1,0 +1,7 @@
+{
+  "name": "ionic-tutorial-1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
